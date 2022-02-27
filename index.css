@@ -1,0 +1,49 @@
+h1{
+color: red;
+}
+h2{
+color: red;
+font-style: italic;
+font-size: x-large;
+}
+ol{
+    color: brown;
+    font-weight: bold;
+    font-size: larger;
+}
+.test1{
+    color: brown;
+    text-decoration: line-through;
+}
+.test2{
+    background-color: yellow;
+}
+.test3{
+    text-decoration: underline;
+    font-style: italic;
+}
+h2{
+    color: red;
+    font-style: italic;
+ 
+}
+.test4{
+    color: brown;
+    letter-spacing: 5px;
+    font-size: larger;
+}
+.test5{
+    background-color: yellow;
+}
+p{
+color: brown;
+font-weight: bold;
+font-size: larger;
+}
+.test6{
+color: red;
+    font-size: larger;
+    font-style: italic;
+    font-weight: bold;
+    background-color: yellow;
+}
